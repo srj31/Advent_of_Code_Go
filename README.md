@@ -9,5 +9,5 @@
 | Name | Tags |
 | --- | --- |
 | [Calorie Counting](https://adventofcode.com/2022/day/1) | Parsing Input, Sort |
-|  |  |
-|  |  |
+| [Rock Paper Scissors](https://adventofcode.com/2022/day/2) | Rune, Byte |
+| [Rucksack Reorganization](https://adventofcode.com/2022/day/3) | Slice |
