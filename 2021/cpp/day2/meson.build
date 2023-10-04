@@ -1,5 +1,5 @@
 app_file1 = files(
-    'day1_A.cpp'
+    'day2.cpp'
 ) 
 
 conf_data = configuration_data()
@@ -10,4 +10,4 @@ configure_file(input : 'input.txt',
 
 configuration_inc = include_directories('.')
 
-executable('day1_A', app_file1, include_directories: [incdir, configuration_inc])
+executable('code', app_file1, include_directories: [incdir, configuration_inc])
